@@ -1,3 +1,7 @@
+# ⛔️ DEPRECATED
+
+Please use the official package with [@sheetbase/app-scripts](https://github.com/sheetbase/app-scripts).
+
 # Pluralize
 
 Using **pluralize** in Google Apps Script.
